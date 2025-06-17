@@ -43,4 +43,5 @@ pip install streamlit yfinance pandas matplotlib
 
 streamlit run app.py
 📌 Example Use Case
-A finance student or analyst uses the app to evaluate the investment potential of a tech stock under different discount rates, using the company’s reported financials from the past few years.
+
+# A finance student or analyst uses the app to evaluate the investment potential of a tech stock under different discount rates, using the company’s reported financials from the past few years.
